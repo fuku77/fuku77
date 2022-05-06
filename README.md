@@ -1,6 +1,6 @@
 # fuku77
 ###### i use arch
-
+###### emacs users please dni
 <!--
 **fuku77/fuku77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
