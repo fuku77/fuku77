@@ -1,7 +1,5 @@
 # fuku77
 
--  
-- 
 - reach me: stx#6932
 - fact: arch 
 <!--
