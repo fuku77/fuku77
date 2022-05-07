@@ -1,5 +1,6 @@
 # fuku77
 
+- working on: discord api wrapper written in common lisp.
 - reach me: stx#6932
 - fact: arch 
 <!--
