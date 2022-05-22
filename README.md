@@ -1,8 +1,7 @@
 # fuku77
 
-- working on: discord api wrapper written in common lisp.
-- reach me: stx#6932
-- fact: arch 
+- working on: discord api wrapper written in common lisp
+- reach me: stxu#0001
 <!--
 **fuku77/fuku77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
