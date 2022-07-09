@@ -1,16 +1,27 @@
 
-<!-- Privated projects that never saw the light of day
-- ~~like 3 different instances of the same discord bot~~ yeaj no
-- ~~common lisp discord api wrapper~~ fun but too much effort, discontinued for now/ also lisp has horrid syntax
--->
 
-<!--
-<p align="center"> fuku77 </p>
--->
-# <p align="center"> <img src="https://user-images.githubusercontent.com/77590245/175788687-386914a8-7d93-477a-9910-6a6d4c6ca906.gif"> </p>
+<h1 align=center>bern / fuku / 67 different names...</h1>
 
-working on: mainly my dotfiles
+<h3 align=center>
+<pre align="center">
+<a href="https://discord.com/users/484067720636399616">discord</a> • <a href="https://github.com/fuku77/dotfiles">dotfiles</a> 
+</pre>
+</h1>
 
-reach me: zbz#0001
+#
 
-read raw for info no one cares about
+<h1 align=center>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=linux,bash,js,python,git,cpp,vim" width="40%" height="40%" />
+  </a>
+</p>
+</h1>
+
+<p align=center>Linux & tech enthusiast coding stuff.</p>
+<div align=center><sub>visit count (since 09/07/22)</sub></div>
+<h1 align=center>
+<img src="https://count.getloli.com/get/@:fuku-readme?theme=rule34" alt=":fuku-readme" />
+</h1>
+
+![1635466087540-b](https://user-images.githubusercontent.com/77590245/178116449-fa861d3f-52ca-4f46-8666-a5c69b0f3a8f.jpg)
