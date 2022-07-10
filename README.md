@@ -18,7 +18,10 @@
 </p>
 </h1>
 
-<p align=center>Linux & tech enthusiast coding stuff.</p>
+<p align=center>
+Linux & tech <strike>enthusiast</strike> coding stuff.
+</p>
+
 <div align=center><sub>visit count (since 09/07/22)</sub></div>
 <h1 align=center>
 <img src="https://count.getloli.com/get/@:fuku-readme?theme=rule34" alt=":fuku-readme" />
