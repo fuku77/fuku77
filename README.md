@@ -24,7 +24,7 @@ Linux & tech <strike>enthusiast</strike> coding stuff.
 
 <div align=center><sub>visit count (since 09/07/22)</sub></div>
 <h1 align=center>
-<img src="https://count.getloli.com/get/@:fuku-readme?theme=rule34" alt=":fuku-readme" />
+<img src="https://count.getloli.com/get/@:fuku-readme?theme=rule34" alt="count" />
 </h1>
 
 ![1635466087540-b](https://user-images.githubusercontent.com/77590245/178116449-fa861d3f-52ca-4f46-8666-a5c69b0f3a8f.jpg)
