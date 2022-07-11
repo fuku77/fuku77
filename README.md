@@ -19,7 +19,7 @@
 </h1>
 
 <p align=center>
-Linux & tech <strike>enthusiast</strike> coding stuff.
+tech connoisseur.
 </p>
 
 <div align=center><sub>visit count (since 09/07/22)</sub></div>
