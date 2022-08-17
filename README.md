@@ -6,7 +6,7 @@
 <pre align="center">
 <a href="https://discord.com/users/484067720636399616">discord</a> • <a href="https://github.com/fuku77/dotfiles">dotfiles</a> 
 </pre>
-</h1>
+</h3>
 
 #
 
