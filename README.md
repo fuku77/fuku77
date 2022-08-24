@@ -8,12 +8,10 @@
 </pre>
 </h3>
 
-#
-
 <h1 align=center>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=linux,bash,js,python,git,cpp,vim" width="40%" height="40%" />
+   <img src="https://skillicons.dev/icons?i=linux,bash,vim,js,cpp,py,git" width="25%" />
   </a>
 </p>
 </h1>
@@ -22,7 +20,9 @@
 tech connoisseur.
 </p>
 
+
 <div align=center><sub>visit count (since 09/07/22)</sub></div>
+
 <h1 align=center>
 <img src="https://count.getloli.com/get/@:fuku-readme?theme=rule34" alt="count" />
 </h1>
