@@ -17,7 +17,7 @@
 </h1>
 
 <p align=center>
-tech connoisseur.
+tech person
 </p>
 
 
