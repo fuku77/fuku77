@@ -1,6 +1,6 @@
 
 
-<h1 align=center>bern / fuku / ...</h1>
+<h1 align=center>fuku / fuma / ...</h1>
 
 <h3 align=center>
 <pre align="center">
